@@ -8,7 +8,7 @@ public class Main {
         //System.out.println(Second("make install"));
         //System.out.println(Third(2, -11, 5));
         //System.out.println(Fourth());
-        //Fifth("парам марап");
+        ////Fifth("парам марап");
     }
 
 
